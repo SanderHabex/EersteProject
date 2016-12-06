@@ -1,1 +1,1 @@
-Dit is een tweede tekstbestand in de lokale repo
+Dit is een tweede tekstbestand in de lokale
